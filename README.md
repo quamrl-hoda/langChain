@@ -4,7 +4,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Python-blue?logo=python)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-Student-green)
 ![Status](https://img.shields.io/badge/Progress-Completed-success)
-![License](https://img.shields.io/badge/License-Open-blue)
 
 ---
 
@@ -32,7 +31,6 @@ This repository covers core LangChain concepts with practical implementations:
 - 🔍 **Embeddings & Vector Stores** — Semantic search and retrieval  
 - 🌐 **API Integrations** — Connecting OpenAI & Hugging Face models  
 
----
 
 ## 📂 Project Structure  
 
@@ -148,7 +146,7 @@ Through this repository, I have:
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-quamrl--hoda-black?logo=github)](https://github.com/quamrl-hoda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](#) *(Add your link here)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](#) *([](https://www.linkedin.com/in/quamrul-hoda-1a4247285/))*
 
 ---
 
@@ -161,9 +159,4 @@ Feel free to explore, fork, and learn from my LangChain journey 🚀
 
 > *“Learning by doing is the fastest way to master AI.”* – **Quamrul Hoda**
 
-```
-
----
-
-Would you like me to add **a banner image or AI-style header** (like a LangChain + Python logo section) at the top for a more eye-catching GitHub profile look?
 ```
