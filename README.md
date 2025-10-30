@@ -50,26 +50,22 @@ langChain/
 ├── requirements.txt               # Dependencies
 └── README.md                      # Documentation
 
-````
-
----
 
 ## ⚙️ Getting Started  
 
-### 1️⃣ Clone the Repository  
+###  Clone the Repository  
 ```bash
 git clone https://github.com/quamrl-hoda/langChain.git
 cd langChain
 ````
 
-### 2️⃣ Install Requirements
+###  Install Requirements
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run an Example
-
+### Run an Example
 ```bash
 python 4.chains/conditional_chain.py
 ```
@@ -146,8 +142,7 @@ Through this repository, I have:
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-quamrl--hoda-black?logo=github)](https://github.com/quamrl-hoda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](#) *([](https://www.linkedin.com/in/quamrul-hoda-1a4247285/))*
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/quamrul-hoda-1a4247285/) 
 ---
 
 ## 🛡️ License
@@ -159,4 +154,3 @@ Feel free to explore, fork, and learn from my LangChain journey 🚀
 
 > *“Learning by doing is the fastest way to master AI.”* – **Quamrul Hoda**
 
-```
