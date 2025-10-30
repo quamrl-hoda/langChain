@@ -40,7 +40,7 @@ langChain/
 │
 ├── requirements.txt               # Dependencies
 └── README.md                      # Documentation
-
+```
 
 ##  Getting Started  
 
@@ -96,7 +96,7 @@ print(response)
 ```
 LangChain is a framework for building applications powered by language models. 
 It helps developers connect LLMs with data, tools, and APIs to create intelligent workflows.
-
+```
 ##  Learning Outcome
 
 Through this repository, I have:
@@ -122,7 +122,6 @@ Through this repository, I have:
 
 [![GitHub](https://img.shields.io/badge/GitHub-quamrl--hoda-black?logo=github)](https://github.com/quamrl-hoda)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/quamrul-hoda-1a4247285/) 
----
 
 ##  License
 
